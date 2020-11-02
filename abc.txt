@@ -1,6 +1,6 @@
 cpu
 keyboard
-mouse
+mouse2
 
 
 
